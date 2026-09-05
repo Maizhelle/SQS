@@ -1,0 +1,8 @@
+# Build artifacts
+build/
+dist/
+*.class
+out/
+.idea/
+.vscode/
+.DS_Store
