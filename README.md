@@ -114,7 +114,7 @@ Examples:
 
 ## Contributors
 
-- **Ronin Perez** | Fullstack | Queue logic, court management, UI flow, build packaging
-- **Rus Lagoras** | Fullstack | Match queue and UI improvements
-- **Tristan Ebonia** | Frontend | Swing layout and form structure
-- **Jerald Andres** | Backend | Core queue and model logic
+- **Ronin Perez** | Fullstack | Build/ Collection/ Model/ Management/ GUI/
+- **Aldrin Bagagnan** | Frontend | GUI/
+- **Ryiogi Flores** | Backend | Collection/ Model/ Management/
+- **Francos Santarin** | Frontend | GUI/
